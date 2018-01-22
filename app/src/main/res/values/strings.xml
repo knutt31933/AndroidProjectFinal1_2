@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidProjectFinal1</string>
+    <string name="facebook_app_id">383997708694316</string>
+    <string name="fb_login_protocol_scheme">fb383997708694316</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
